@@ -1,0 +1,15 @@
+<DOCTYPE! html>
+  <html>
+    <head>
+      <h1 id = "title">Title</h1>
+      </head>
+    <body>
+      <p id = "description">Lorem ipsum 
+        <form id="survey-form">
+          <input id = "name" type = "text" value = "name" required></input>
+          <input id = "email" type = "email" value = "e-mail" required></input>
+          <input id = "number" type = "number" value = "number" min = 2 max = 13 required></input>
+          <labe></label>
+        </form>
+      </body>
+    </html>
